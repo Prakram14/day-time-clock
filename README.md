@@ -1,5 +1,5 @@
 # day-time-clock
-# Web Link: https://prakram14.github.io/day-time-clock/
+Web Link: https://prakram14.github.io/day-time-clock/
 This is a Javascript based clock which shows current date and time.
 Below is the interface of our clock:
 

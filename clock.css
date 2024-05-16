@@ -1,0 +1,17 @@
+body{
+    background-image: url("wooden_clock.jpg");
+    position: relative;
+    background-size:cover;
+    background-repeat:no-repeat;
+    margin-top: 0px;
+}
+
+.img{
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container my-4{
+    color: white;
+}
